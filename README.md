@@ -44,6 +44,6 @@ In this lab, I created a Security Incident and Event Management (SIEM) using Mic
 <img src="https://i.imgur.com/HDFn83N.png" height="80%" width="80%" alt="File Integrity Monitor Steps"/>
 <br />
 <br />
-7. Several hours later, the map is now looking much more filled out.  <br/>
-<img src="https://i.imgur.com/F8CYIwT.png" height="80%" width="80%" alt="File Integrity Monitor Steps"/>
+7. I left it on overnight and now the map is looking much more filled out.  Over 1000 failed login attempts have occurred.  <br/>
+<img src="https://i.imgur.com/MgLFr5A.png" height="80%" width="80%" alt="File Integrity Monitor Steps"/>
 </p>
